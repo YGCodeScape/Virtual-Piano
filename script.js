@@ -11,7 +11,7 @@ const pianoMap = {
   KeyL: "./Assets/keys/09.mp3",
   Semicolon: "./Assets/keys/10.mp3",
 
-  KeyQ: "./Assets/keys/11.mp3",
+  keyQ: "./Assets/keys/11.mp3",
   KeyW: "./Assets/keys/12.mp3",
   KeyE: "./Assets/keys/13.mp3",
   KeyR: "./Assets/keys/14.mp3",
